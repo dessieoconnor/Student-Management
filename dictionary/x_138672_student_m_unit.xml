@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Unit" max_length="40" name="x_138672_student_m_unit" type="collection">
+        <element display="true" label="Title" max_length="255" name="title" type="string"/>
+    </element>
+</database>

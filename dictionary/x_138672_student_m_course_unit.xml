@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Course Unit" max_length="40" name="x_138672_student_m_course_unit" type="collection">
+        <element label="core" max_length="40" name="core" type="boolean"/>
+        <element label="course" max_length="32" name="course" reference="x_138672_student_m_course" type="reference"/>
+        <element display="true" label="Title" max_length="40" name="title" type="string"/>
+        <element label="Unit" max_length="32" name="unit" reference="x_138672_student_m_unit" type="reference"/>
+        <index name="index">
+            <element name="unit"/>
+        </index>
+        <index name="index2">
+            <element name="course"/>
+        </index>
+    </element>
+</database>

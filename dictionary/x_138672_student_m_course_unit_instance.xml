@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Course Unit Instance" max_length="40" name="x_138672_student_m_course_unit_instance" type="collection">
+        <element label="Course Instance" max_length="32" name="course_instance" reference="x_138672_student_m_course_instance" type="reference"/>
+        <element display="true" label="Course Unit" max_length="32" name="course_unit" reference="x_138672_student_m_course_unit" type="reference"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="title" max_length="255" name="title" type="string"/>
+        <index name="index">
+            <element name="course_unit"/>
+        </index>
+        <index name="index2">
+            <element name="course_instance"/>
+        </index>
+    </element>
+</database>
