@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Course" max_length="40" name="x_138672_student_m_course" type="collection">
-        <element display="true" label="title" max_length="40" name="title" type="string"/>
+        <element display="true" label="Course Title" max_length="40" name="title" type="string"/>
     </element>
 </database>

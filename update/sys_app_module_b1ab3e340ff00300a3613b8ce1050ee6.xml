@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Course Unit Instance Group">8bf9a6580f240300a3613b8ce1050efa</application>
+        <application display_value="Course Unit Group Instance">b5ab3e340ff00300a3613b8ce1050ee3</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,35 +12,35 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Course Unit Instance Groups</mobile_title>
+        <mobile_title>Course Unit Group Instances</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_138672_student_m_course_unit_instance_group</name>
+        <name>x_138672_student_m_course_unit_group_instance</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_138672_student_m.course_unit_instance_group_user</roles>
+        <roles>x_138672_student_m.course_unit_group_instance_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-09 05:46:24</sys_created_on>
+        <sys_created_by>Rhyno</sys_created_by>
+        <sys_created_on>2017-08-23 06:36:14</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>43f9a6580f240300a3613b8ce1050efd</sys_id>
+        <sys_id>b1ab3e340ff00300a3613b8ce1050ee6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Course Unit Instance Groups</sys_name>
+        <sys_name>Course Unit Group Instances</sys_name>
         <sys_overrides/>
         <sys_package display_value="Student Management" source="x_138672_student_m">b4762d400f200300a3613b8ce1050e7c</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Student Management">b4762d400f200300a3613b8ce1050e7c</sys_scope>
-        <sys_update_name>sys_app_module_43f9a6580f240300a3613b8ce1050efd</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-09 05:46:24</sys_updated_on>
+        <sys_update_name>sys_app_module_b1ab3e340ff00300a3613b8ce1050ee6</sys_update_name>
+        <sys_updated_by>Rhyno</sys_updated_by>
+        <sys_updated_on>2017-08-23 06:36:14</sys_updated_on>
         <timeline_page/>
-        <title>Course Unit Instance Groups</title>
+        <title>Course Unit Group Instances</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -5,13 +5,13 @@
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-08 06:44:46</sys_created_on>
-            <sys_id>64cda50c0f200300a3613b8ce1050e9d</sys_id>
+            <sys_created_on>2017-08-10 01:56:16</sys_created_on>
+            <sys_id>b9ee7e600f600300a3613b8ce1050e05</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_138672_student_m_course" sys_domain="global" view="Default view">d8cd6dc80f200300a3613b8ce1050efe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-08 06:44:46</sys_updated_on>
+            <sys_updated_on>2017-08-10 01:56:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

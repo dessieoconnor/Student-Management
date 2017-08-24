@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Course Unit Group Instance">31ab3e340ff00300a3613b8ce1050ee9</application>
+        <filter/>
+        <name>Course Unit Group Instances</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_138672_student_m.course_unit_group_ins</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Rhyno</sys_created_by>
+        <sys_created_on>2017-08-23 06:36:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f5ab3e340ff00300a3613b8ce1050eeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Course Unit Group Instances</sys_name>
+        <sys_package display_value="Student Management" source="x_138672_student_m">b4762d400f200300a3613b8ce1050e7c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Student Management">b4762d400f200300a3613b8ce1050e7c</sys_scope>
+        <sys_update_name>sys_ui_module_f5ab3e340ff00300a3613b8ce1050eeb</sys_update_name>
+        <sys_updated_by>Rhyno</sys_updated_by>
+        <sys_updated_on>2017-08-23 06:36:15</sys_updated_on>
+        <table>x_138672_student_m_course_unit_group_instance</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

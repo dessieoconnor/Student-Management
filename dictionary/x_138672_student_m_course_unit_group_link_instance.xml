@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Course Unit Group Link Instance" max_length="40" name="x_138672_student_m_course_unit_group_link_instance" type="collection">
+        <element label="Course Unit Group Instance" max_length="32" name="course_unit_group_instance" reference="x_138672_student_m_course_unit_group_instance" type="reference"/>
+        <element label="Course Unit Instance" max_length="32" name="course_unit_instance" reference="x_138672_student_m_course_unit_instance" type="reference"/>
+        <index name="index">
+            <element name="course_unit_instance"/>
+        </index>
+        <index name="index2">
+            <element name="course_unit_group_instance"/>
+        </index>
+    </element>
+</database>
